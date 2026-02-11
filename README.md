@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm June 👋
 
-<!--
-**0takuc0mrade/0takuc0mrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Blockchain Developer** focused on building decentralized applications and exploring the intersection of AI and Web3. I enjoy building secure, scalable solutions across various ecosystems.
 
-Here are some ideas to get you started:
+### 🛠️ What I’m working on
+* **Dark Waters:** An onchain provable game built on Starknet using the Dojo engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Tech Stack & Tools
+* **Languages:** Rust, Cairo, Solidity, TypeScript.
+* **Frameworks:** Anchor (Solana), Starknet, Hardhat/Foundry (EVM).
+* **Environment:** WSL2 (Ubuntu), Linux.
+* **Interests:** Blockchain Security, DeFi, and Cross-chain interoperability.
+
+### 📫 How to reach me
+* **Twitter/X:** [@junep059]
+* **LinkedIn:** [JUNE PETER]
+* **Email:** [junep059@gmail.com]
+
