@@ -4,6 +4,7 @@ I am a **Blockchain Developer** focused on building decentralized applications a
 
 ### 🛠️ What I’m working on
 * **Dark Waters:** An onchain provable game built on Starknet using the Dojo engine.
+* **Swiftrail:**  A gasless USDC checkout stack for Arbitrum Sepolia.
 
 
 ### 🚀 Tech Stack & Tools
