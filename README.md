@@ -61,3 +61,5 @@ I am interested in open-source collaboration around agent infrastructure, protoc
   ]
 }
 WALLET-LINKING-END -->
+
+<!-- gitarmy-wallet:v1 {"chain":"solana","address":"5afDTAS9QMcQiigTQs4UWiCBJuU55pkqAb2ZJVs1WZjj"} -->
